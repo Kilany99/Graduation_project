@@ -25,3 +25,6 @@ To run the project you have to enable IIS from Windows featrues as follwoing:
 You have to change the Adresses that in Graduation_project.sln : webcamPage.cshtml
 on ajax request to the ip address that you give to your site on IIS,
 Myapplication android app also need to cange the ip address.
+
+
+**Also you need to insall the requerment nutPack on Visual Studio and Sync dependencies in Android Studio.**
