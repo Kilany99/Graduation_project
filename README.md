@@ -1,26 +1,22 @@
-# Graduation_project
-Web and Mobile applications of : Anomaly detection in surveillance videos system. 
+Web and Mobile applications of : Anomaly detection in surveillance videos system.
 
+**<--hints-->**
 
-*******<--hints-->*******
-
-To run the project you have to enable IIS from Windows featrues as follwoing:
+To run the project you have to enable IIS from Windows features as following:
 
 1.go to start.
 
 2.type windows features.
 
-3.look for Internet Information Servieces.
+3.look for Internet Information Services.
 
 4.enable FTP server : FTP service.
 
-5.enable Web Mangement Tool : IIS Mangement Console.
+5.enable Web Management Tool : IIS Management Console.
 
 6.enable all services of World Wide Web Services.
 
-
-*****Important*****
-
+****Important****
 
 after you enabled the IIS server you click on add a website, then:
 
@@ -36,7 +32,6 @@ after you enabled the IIS server you click on add a website, then:
 
 -then click OK.
 
--repeat same for grad_project but with deffirent port number.
+-repeat same for grad_project but with different port number.
 
-
-**Plaese message me if any bug occured during the IIS preparment or after it (because there ara common erors may occured!).**
+**Please message me if any bug occurred during the IIS prepare or after it (because there are common errors may occurred!).**
