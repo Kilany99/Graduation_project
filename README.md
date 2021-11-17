@@ -23,12 +23,20 @@ To run the project you have to enable IIS from Windows featrues as follwoing:
 
 
 after you enabled the IIS server you click on add a website, then:
+
 -type the name of website(as you want).
+
 -select app pool to .NET 2 for API, and .NET2 classic for the grad_project file.
+
 -select physical path to the extracted rar file of API.
--select https and 192.168..... from the combo-box.
+
+-select https and 192.168..... from the sliding-menu.
+
 -select IIS certificate.
+
 -then click OK.
+
 -repeat same for grad_project but with deffirent port number.
 
-**Also you need to insall the requerment nutPack on Visual Studio and Sync dependencies in Android Studio.**
+
+**Plaese message me if any bug occured during the IIS preparment or after it (because there ara common erors may occured!).**
